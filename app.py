@@ -1,6 +1,6 @@
 """
-BleedingHeart-API v0.9.0
-(c) 2025 Bidlisiw Inc.
+Rice-API v0.9.0
+(c) 2025 Oryza Inc.
 """
 import json
 import hashlib
