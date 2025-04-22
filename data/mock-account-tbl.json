@@ -1,0 +1,30 @@
+{
+    "userstd": {
+        "id": "fae92fde-9b21-5860-90a7-3d9a25197a87",
+        "fullName": "Louise Delima",
+        "hash": "$2b$12$lxLN/m3dc8Yy4sUU4HhW2u2IxpGHnPHjP6otUBh5WJDYhw/0gu76.",
+        "userLevel": 0,
+        "createdAt": 1745308957
+    },
+    "moduser": {
+        "id": "fed50e7a-41a9-5bcd-b3ca-380c924cf342",
+        "fullName": "Yzabelle Delima",
+        "hash": "$2b$12$AbBEC936GP66EZdqJsqe2uXZDTp03V5wMYsgsDx45.v4eHBLQ56K.",
+        "userLevel": 1,
+        "createdAt": 1745309021
+    },
+    "adminme": {
+        "id": "f834314a-9f41-5aa8-91a5-ff17fb5f7f53",
+        "fullName": "Christian Boyles",
+        "hash": "$2b$12$YySSO3i3D4fj9Ska1XCs9OBt2rSZe1wXCk/L29vGrWXiJWG.pCCLG",
+        "userLevel": 2,
+        "createdAt": 1745309061
+    },
+    "superboss": {
+        "id": "c8b0cfba-d764-597f-a7fe-ead5d79bdc0b",
+        "fullName": "Maria Chezka Meliz Delima",
+        "hash": "$2b$12$qqtyzzmnHzyZ4LPqJUdLIejC/4Z2KncwTY2kD6VNAb9NK1ujKK.UW",
+        "userLevel": 3,
+        "createdAt": 1745309094
+    }
+}
